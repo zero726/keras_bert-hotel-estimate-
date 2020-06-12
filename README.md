@@ -1,9 +1,11 @@
 # keras_bert-(hotel-estimate)
 
 项目介绍：
+
 基于tensorflow.keras环境，进行酒店的消费用户的评价进行分类，使用bert进行预先
 
 使用说明：
+
 1、下载bert源代码 ：
 
 https://github.com/google-research/bert  （文件夹已下好，如无法调用，可自行下载）
